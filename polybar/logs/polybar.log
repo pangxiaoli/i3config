@@ -1,0 +1,699 @@
+---
+polybar|notice:  Parsing config file: /home/ymxz/.config/polybar/config
+polybar|notice:  Parsing config file: /home/ymxz/.config/polybar/config
+polybar|error: Monitor "eDP1" not found or disconnected
+polybar|error: Disabling module "wlan" (reason: Invalid network interface "enp3s0")
+polybar|error: Disabling module "eth" (reason: Invalid network interface "wlp5s0")
+polybar|error: Disabling module "upload" (reason: Invalid network interface "wlp5s0")
+polybar|error: Disabling module "download" (reason: Invalid network interface "wlp5s0")
+polybar|error: Disabling module "temperature" (reason: The file '/sys/class/thermal/thermal_zone0/temp' does not exist)
+polybar|notice:  Loaded font "ttf-liberation-sans:fixed:pixelsize=13" (name=文泉驿正黑, offset=1, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|notice:  Loaded font "source han sans cn:pixelsize=13:antialias=false" (name=文泉驿正黑, offset=1, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|notice:  Loaded font "Font Awesome 5 Free:style=Solid:pixelsize=13" (name=Font Awesome 5 Free, offset=1, file=/usr/share/fonts/TTF/fa-solid-900.ttf)
+polybar|notice:  Loaded font "Font Awesome 5 Brands:style=Regular:pixelsize=13" (name=Font Awesome 5 Brands, offset=1, file=/usr/share/fonts/TTF/fa-brands-400.ttf)
+polybar|notice:  Loaded font "material icons:pixelsize=16" (name=文泉驿正黑, offset=3, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|warn:  tray-transparent is deprecated, the tray always uses pseudo-transparency. Please remove it.
+polybar|error: tray: Failed to put tray above 0x2000002 in the stack (XCB_MATCH (8))
+polybar|error: Invalid _XEMBED_INFO for window 0x0c00018
+polybar|notice:  Termination signal received, shutting down...
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
+---
+polybar|notice:  Parsing config file: /home/ymxz/.config/polybar/config
+polybar|notice:  Parsing config file: /home/ymxz/.config/polybar/config
+polybar|error: Monitor "eDP1" not found or disconnected
+polybar|error: Disabling module "wlan" (reason: Invalid network interface "enp3s0")
+polybar|error: Disabling module "eth" (reason: Invalid network interface "wlp5s0")
+polybar|error: Disabling module "upload" (reason: Invalid network interface "wlp5s0")
+polybar|error: Disabling module "download" (reason: Invalid network interface "wlp5s0")
+polybar|error: Disabling module "temperature" (reason: The file '/sys/class/thermal/thermal_zone0/temp' does not exist)
+polybar|notice:  Loaded font "ttf-liberation-sans:fixed:pixelsize=13" (name=文泉驿正黑, offset=1, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|notice:  Loaded font "source han sans cn:pixelsize=13:antialias=false" (name=文泉驿正黑, offset=1, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|notice:  Loaded font "Font Awesome 5 Free:style=Solid:pixelsize=13" (name=Font Awesome 5 Free, offset=1, file=/usr/share/fonts/TTF/fa-solid-900.ttf)
+polybar|notice:  Loaded font "Font Awesome 5 Brands:style=Regular:pixelsize=13" (name=Font Awesome 5 Brands, offset=1, file=/usr/share/fonts/TTF/fa-brands-400.ttf)
+polybar|notice:  Loaded font "material icons:pixelsize=16" (name=文泉驿正黑, offset=3, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|warn:  tray-transparent is deprecated, the tray always uses pseudo-transparency. Please remove it.
+polybar|error: tray: Failed to put tray above 0x2800002 in the stack (XCB_MATCH (8))
+polybar|warn:  Systray selection already managed (window=0x2000006)
+polybar|error: tray: Failed to put tray above 0x2800002 in the stack (XCB_MATCH (8))
+polybar|error: Invalid _XEMBED_INFO for window 0x0c00171
+polybar|notice:  Termination signal received, shutting down...
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
+---
+polybar|notice:  Parsing config file: /home/ymxz/.config/polybar/config
+polybar|error: Monitor "eDP1" not found or disconnected
+polybar|notice:  Parsing config file: /home/ymxz/.config/polybar/config
+polybar|error: Disabling module "wlan" (reason: Invalid network interface "enp3s0")
+polybar|error: Disabling module "eth" (reason: Invalid network interface "wlp5s0")
+polybar|error: Disabling module "upload" (reason: Invalid network interface "wlp5s0")
+polybar|error: Disabling module "download" (reason: Invalid network interface "wlp5s0")
+polybar|error: Disabling module "temperature" (reason: The file '/sys/class/thermal/thermal_zone0/temp' does not exist)
+polybar|notice:  Loaded font "ttf-liberation-sans:fixed:pixelsize=13" (name=文泉驿正黑, offset=1, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|notice:  Loaded font "source han sans cn:pixelsize=13:antialias=false" (name=文泉驿正黑, offset=1, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|notice:  Loaded font "Font Awesome 5 Free:style=Solid:pixelsize=13" (name=Font Awesome 5 Free, offset=1, file=/usr/share/fonts/TTF/fa-solid-900.ttf)
+polybar|notice:  Loaded font "Font Awesome 5 Brands:style=Regular:pixelsize=13" (name=Font Awesome 5 Brands, offset=1, file=/usr/share/fonts/TTF/fa-brands-400.ttf)
+polybar|notice:  Loaded font "material icons:pixelsize=16" (name=文泉驿正黑, offset=3, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|warn:  tray-transparent is deprecated, the tray always uses pseudo-transparency. Please remove it.
+polybar|error: tray: Failed to put tray above 0x2000002 in the stack (XCB_MATCH (8))
+polybar|warn:  Systray selection already managed (window=0x2800018)
+polybar|error: tray: Failed to put tray above 0x2000002 in the stack (XCB_MATCH (8))
+polybar|error: Invalid _XEMBED_INFO for window 0x0c0018b
+polybar|notice:  Termination signal received, shutting down...
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
+---
+polybar|notice:  Parsing config file: /home/ymxz/.config/polybar/config
+polybar|notice:  Parsing config file: /home/ymxz/.config/polybar/config
+polybar|error: Monitor "eDP1" not found or disconnected
+polybar|error: Disabling module "wlan" (reason: Invalid network interface "enp3s0")
+polybar|error: Disabling module "eth" (reason: Invalid network interface "wlp5s0")
+polybar|error: Disabling module "upload" (reason: Invalid network interface "wlp5s0")
+polybar|error: Disabling module "download" (reason: Invalid network interface "wlp5s0")
+polybar|error: Disabling module "temperature" (reason: The file '/sys/class/thermal/thermal_zone0/temp' does not exist)
+polybar|notice:  Loaded font "ttf-liberation-sans:fixed:pixelsize=13" (name=文泉驿正黑, offset=1, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|notice:  Loaded font "source han sans cn:pixelsize=13:antialias=false" (name=文泉驿正黑, offset=1, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|notice:  Loaded font "Font Awesome 5 Free:style=Solid:pixelsize=13" (name=Font Awesome 5 Free, offset=1, file=/usr/share/fonts/TTF/fa-solid-900.ttf)
+polybar|notice:  Loaded font "Font Awesome 5 Brands:style=Regular:pixelsize=13" (name=Font Awesome 5 Brands, offset=1, file=/usr/share/fonts/TTF/fa-brands-400.ttf)
+polybar|notice:  Loaded font "material icons:pixelsize=16" (name=文泉驿正黑, offset=3, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|warn:  tray-transparent is deprecated, the tray always uses pseudo-transparency. Please remove it.
+polybar|warn:  Systray selection already managed (window=0x2000018)
+polybar|error: tray: Failed to put tray above 0x2a00002 in the stack (XCB_MATCH (8))
+polybar|error: Invalid _XEMBED_INFO for window 0x0c001a3
+polybar|notice:  Termination signal received, shutting down...
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
+---
+polybar|notice:  Parsing config file: /home/ymxz/.config/polybar/config
+polybar|notice:  Parsing config file: /home/ymxz/.config/polybar/config
+polybar|error: Monitor "eDP1" not found or disconnected
+polybar|error: Disabling module "wlan" (reason: Invalid network interface "enp3s0")
+polybar|error: Disabling module "eth" (reason: Invalid network interface "wlp5s0")
+polybar|error: Disabling module "upload" (reason: Invalid network interface "wlp5s0")
+polybar|error: Disabling module "download" (reason: Invalid network interface "wlp5s0")
+polybar|error: Disabling module "temperature" (reason: The file '/sys/class/thermal/thermal_zone0/temp' does not exist)
+polybar|notice:  Loaded font "ttf-liberation-sans:fixed:pixelsize=13" (name=文泉驿正黑, offset=1, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|notice:  Loaded font "source han sans cn:pixelsize=13:antialias=false" (name=文泉驿正黑, offset=1, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|notice:  Loaded font "Font Awesome 5 Free:style=Solid:pixelsize=13" (name=Font Awesome 5 Free, offset=1, file=/usr/share/fonts/TTF/fa-solid-900.ttf)
+polybar|notice:  Loaded font "Font Awesome 5 Brands:style=Regular:pixelsize=13" (name=Font Awesome 5 Brands, offset=1, file=/usr/share/fonts/TTF/fa-brands-400.ttf)
+polybar|notice:  Loaded font "material icons:pixelsize=16" (name=文泉驿正黑, offset=3, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|warn:  tray-transparent is deprecated, the tray always uses pseudo-transparency. Please remove it.
+polybar|error: tray: Failed to put tray above 0x2000002 in the stack (XCB_MATCH (8))
+polybar|error: Invalid _XEMBED_INFO for window 0x0c001b5
+polybar|notice:  Termination signal received, shutting down...
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
+---
+polybar|notice:  Parsing config file: /home/ymxz/.config/polybar/config
+polybar|notice:  Parsing config file: /home/ymxz/.config/polybar/config
+polybar|error: Monitor "eDP1" not found or disconnected
+polybar|error: Disabling module "wlan" (reason: Invalid network interface "enp3s0")
+polybar|error: Disabling module "eth" (reason: Invalid network interface "wlp5s0")
+polybar|error: Disabling module "upload" (reason: Invalid network interface "wlp5s0")
+polybar|error: Disabling module "download" (reason: Invalid network interface "wlp5s0")
+polybar|error: Disabling module "temperature" (reason: The file '/sys/class/thermal/thermal_zone0/temp' does not exist)
+polybar|notice:  Loaded font "ttf-liberation-sans:fixed:pixelsize=13" (name=文泉驿正黑, offset=1, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|notice:  Loaded font "source han sans cn:pixelsize=13:antialias=false" (name=文泉驿正黑, offset=1, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|notice:  Loaded font "Font Awesome 5 Free:style=Solid:pixelsize=13" (name=Font Awesome 5 Free, offset=1, file=/usr/share/fonts/TTF/fa-solid-900.ttf)
+polybar|notice:  Loaded font "Font Awesome 5 Brands:style=Regular:pixelsize=13" (name=Font Awesome 5 Brands, offset=1, file=/usr/share/fonts/TTF/fa-brands-400.ttf)
+polybar|notice:  Loaded font "material icons:pixelsize=16" (name=文泉驿正黑, offset=3, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|warn:  tray-transparent is deprecated, the tray always uses pseudo-transparency. Please remove it.
+polybar|warn:  Systray selection already managed (window=0x2000009)
+polybar|error: tray: Failed to put tray above 0x2800002 in the stack (XCB_MATCH (8))
+polybar|error: Invalid _XEMBED_INFO for window 0x0c001e5
+polybar|notice:  Termination signal received, shutting down...
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
+---
+polybar|notice:  Parsing config file: /home/ymxz/.config/polybar/config
+polybar|notice:  Parsing config file: /home/ymxz/.config/polybar/config
+polybar|error: Monitor "eDP1" not found or disconnected
+polybar|error: Disabling module "wlan" (reason: Invalid network interface "enp3s0")
+polybar|error: Disabling module "eth" (reason: Invalid network interface "wlp5s0")
+polybar|error: Disabling module "upload" (reason: Invalid network interface "wlp5s0")
+polybar|error: Disabling module "download" (reason: Invalid network interface "wlp5s0")
+polybar|error: Disabling module "temperature" (reason: The file '/sys/class/thermal/thermal_zone0/temp' does not exist)
+polybar|notice:  Loaded font "ttf-liberation-sans:fixed:pixelsize=13" (name=文泉驿正黑, offset=1, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|notice:  Loaded font "source han sans cn:pixelsize=13:antialias=false" (name=文泉驿正黑, offset=1, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|notice:  Loaded font "Font Awesome 5 Free:style=Solid:pixelsize=13" (name=Font Awesome 5 Free, offset=1, file=/usr/share/fonts/TTF/fa-solid-900.ttf)
+polybar|notice:  Loaded font "Font Awesome 5 Brands:style=Regular:pixelsize=13" (name=Font Awesome 5 Brands, offset=1, file=/usr/share/fonts/TTF/fa-brands-400.ttf)
+polybar|notice:  Loaded font "material icons:pixelsize=16" (name=文泉驿正黑, offset=3, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|warn:  tray-transparent is deprecated, the tray always uses pseudo-transparency. Please remove it.
+polybar|warn:  Systray selection already managed (window=0x2800014)
+polybar|error: tray: Failed to put tray above 0x2000002 in the stack (XCB_MATCH (8))
+polybar|error: Invalid _XEMBED_INFO for window 0x0c001f7
+polybar|notice:  Termination signal received, shutting down...
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
+---
+polybar|notice:  Parsing config file: /home/ymxz/.config/polybar/config
+polybar|notice:  Parsing config file: /home/ymxz/.config/polybar/config
+polybar|error: Monitor "eDP1" not found or disconnected
+polybar|error: Disabling module "wlan" (reason: Invalid network interface "enp3s0")
+polybar|error: Disabling module "eth" (reason: Invalid network interface "wlp5s0")
+polybar|error: Disabling module "upload" (reason: Invalid network interface "wlp5s0")
+polybar|error: Disabling module "download" (reason: Invalid network interface "wlp5s0")
+polybar|error: Disabling module "temperature" (reason: The file '/sys/class/thermal/thermal_zone0/temp' does not exist)
+polybar|notice:  Loaded font "ttf-liberation-sans:fixed:pixelsize=13" (name=文泉驿正黑, offset=1, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|notice:  Loaded font "source han sans cn:pixelsize=13:antialias=false" (name=文泉驿正黑, offset=1, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|notice:  Loaded font "Font Awesome 5 Free:style=Solid:pixelsize=13" (name=Font Awesome 5 Free, offset=1, file=/usr/share/fonts/TTF/fa-solid-900.ttf)
+polybar|notice:  Loaded font "Font Awesome 5 Brands:style=Regular:pixelsize=13" (name=Font Awesome 5 Brands, offset=1, file=/usr/share/fonts/TTF/fa-brands-400.ttf)
+polybar|notice:  Loaded font "material icons:pixelsize=16" (name=文泉驿正黑, offset=3, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|warn:  tray-transparent is deprecated, the tray always uses pseudo-transparency. Please remove it.
+polybar|error: tray: Failed to put tray above 0x2a00002 in the stack (XCB_MATCH (8))
+polybar|warn:  Systray selection already managed (window=0x2000014)
+polybar|error: tray: Failed to put tray above 0x2a00002 in the stack (XCB_MATCH (8))
+polybar|error: Invalid _XEMBED_INFO for window 0x0c002dd
+polybar|notice:  Termination signal received, shutting down...
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
+---
+polybar|notice:  Parsing config file: /home/ymxz/.config/polybar/config
+polybar|notice:  Parsing config file: /home/ymxz/.config/polybar/config
+polybar|error: Monitor "eDP1" not found or disconnected
+polybar|error: Disabling module "pulseaudio" (reason: Missing section "module/pulseaudio")
+polybar|notice:  Loaded font "ttf-liberation-sans:fixed:pixelsize=13" (name=文泉驿正黑, offset=1, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|notice:  Loaded font "source han sans cn:pixelsize=13:antialias=false" (name=文泉驿正黑, offset=1, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|notice:  Loaded font "Font Awesome 5 Free:style=Solid:pixelsize=13" (name=Font Awesome 5 Free, offset=1, file=/usr/share/fonts/TTF/fa-solid-900.ttf)
+polybar|notice:  Loaded font "Font Awesome 5 Brands:style=Regular:pixelsize=13" (name=Font Awesome 5 Brands, offset=1, file=/usr/share/fonts/TTF/fa-brands-400.ttf)
+polybar|notice:  Loaded font "material icons:pixelsize=16" (name=文泉驿正黑, offset=3, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|warn:  tray-transparent is deprecated, the tray always uses pseudo-transparency. Please remove it.
+polybar|warn:  Systray selection already managed (window=0x2a00016)
+polybar|error: tray: Failed to put tray above 0x2000002 in the stack (XCB_MATCH (8))
+polybar|error: Invalid _XEMBED_INFO for window 0x0c00303
+polybar|notice:  Termination signal received, shutting down...
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
+---
+polybar|notice:  Parsing config file: /home/ymxz/.config/polybar/config
+polybar|error: Monitor "eDP1" not found or disconnected
+polybar|notice:  Parsing config file: /home/ymxz/.config/polybar/config
+polybar|error: Invalid value for "module/i3.label-focused-underline", using default value (reason: The reference ${coclors.primary} does not exist (no fallback set))
+polybar|error: Invalid value for "module/i3.label-visible-underline", using default value (reason: The reference ${coclors.primary} does not exist (no fallback set))
+polybar|error: Disabling module "pulseaudio" (reason: Missing section "module/pulseaudio")
+polybar|notice:  Loaded font "ttf-liberation-sans:fixed:pixelsize=13" (name=文泉驿正黑, offset=1, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|notice:  Loaded font "source han sans cn:pixelsize=13:antialias=false" (name=文泉驿正黑, offset=1, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|notice:  Loaded font "Font Awesome 5 Free:style=Solid:pixelsize=13" (name=Font Awesome 5 Free, offset=1, file=/usr/share/fonts/TTF/fa-solid-900.ttf)
+polybar|notice:  Loaded font "Font Awesome 5 Brands:style=Regular:pixelsize=13" (name=Font Awesome 5 Brands, offset=1, file=/usr/share/fonts/TTF/fa-brands-400.ttf)
+polybar|notice:  Loaded font "material icons:pixelsize=16" (name=文泉驿正黑, offset=3, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|warn:  tray-transparent is deprecated, the tray always uses pseudo-transparency. Please remove it.
+polybar|error: tray: Failed to put tray above 0x2a00002 in the stack (XCB_MATCH (8))
+polybar|error: Invalid _XEMBED_INFO for window 0x0c00329
+polybar|notice:  Termination signal received, shutting down...
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
+---
+polybar|notice:  Parsing config file: /home/ymxz/.config/polybar/config
+polybar|notice:  Parsing config file: /home/ymxz/.config/polybar/config
+polybar|error: Monitor "eDP1" not found or disconnected
+polybar|error: Invalid value for "module/i3.label-focused-underline", using default value (reason: The reference ${coclors.primary} does not exist (no fallback set))
+polybar|error: Invalid value for "module/i3.label-visible-underline", using default value (reason: The reference ${coclors.primary} does not exist (no fallback set))
+polybar|error: Disabling module "pulseaudio" (reason: Missing section "module/pulseaudio")
+polybar|notice:  Loaded font "ttf-liberation-sans:fixed:pixelsize=13" (name=文泉驿正黑, offset=1, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|notice:  Loaded font "source han sans cn:pixelsize=13:antialias=false" (name=文泉驿正黑, offset=1, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|notice:  Loaded font "Font Awesome 5 Free:style=Solid:pixelsize=13" (name=Font Awesome 5 Free, offset=1, file=/usr/share/fonts/TTF/fa-solid-900.ttf)
+polybar|notice:  Loaded font "Font Awesome 5 Brands:style=Regular:pixelsize=13" (name=Font Awesome 5 Brands, offset=1, file=/usr/share/fonts/TTF/fa-brands-400.ttf)
+polybar|notice:  Loaded font "material icons:pixelsize=16" (name=文泉驿正黑, offset=3, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|warn:  tray-transparent is deprecated, the tray always uses pseudo-transparency. Please remove it.
+polybar|warn:  Systray selection already managed (window=0x2a00009)
+polybar|error: tray: Failed to put tray above 0x2c00002 in the stack (XCB_MATCH (8))
+polybar|error: Invalid _XEMBED_INFO for window 0x0c0033b
+polybar|notice:  Termination signal received, shutting down...
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
+---
+polybar|notice:  Parsing config file: /home/ymxz/.config/polybar/config
+polybar|notice:  Parsing config file: /home/ymxz/.config/polybar/config
+polybar|error: Monitor "eDP1" not found or disconnected
+polybar|error: Invalid value for "module/i3.label-focused-underline", using default value (reason: The reference ${coclors.primary} does not exist (no fallback set))
+polybar|error: Invalid value for "module/i3.label-visible-underline", using default value (reason: The reference ${coclors.primary} does not exist (no fallback set))
+polybar|error: Disabling module "pulseaudio" (reason: Missing section "module/pulseaudio")
+polybar|notice:  Loaded font "ttf-liberation-sans:fixed:pixelsize=13" (name=文泉驿正黑, offset=1, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|notice:  Loaded font "source han sans cn:pixelsize=13:antialias=false" (name=文泉驿正黑, offset=1, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|notice:  Loaded font "Font Awesome 5 Free:style=Solid:pixelsize=13" (name=Font Awesome 5 Free, offset=1, file=/usr/share/fonts/TTF/fa-solid-900.ttf)
+polybar|notice:  Loaded font "Font Awesome 5 Brands:style=Regular:pixelsize=13" (name=Font Awesome 5 Brands, offset=1, file=/usr/share/fonts/TTF/fa-brands-400.ttf)
+polybar|notice:  Loaded font "material icons:pixelsize=16" (name=文泉驿正黑, offset=3, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|warn:  tray-transparent is deprecated, the tray always uses pseudo-transparency. Please remove it.
+polybar|error: tray: Failed to put tray above 0x2a00002 in the stack (XCB_MATCH (8))
+polybar|warn:  Systray selection already managed (window=0x2c00017)
+polybar|error: tray: Failed to put tray above 0x2a00002 in the stack (XCB_MATCH (8))
+polybar|error: Invalid _XEMBED_INFO for window 0x0c0035d
+polybar|notice:  Termination signal received, shutting down...
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
+---
+polybar|notice:  Parsing config file: /home/ymxz/.config/polybar/config
+polybar|notice:  Parsing config file: /home/ymxz/.config/polybar/config
+polybar|error: Monitor "eDP1" not found or disconnected
+polybar|error: Disabling module "pulseaudio" (reason: Missing section "module/pulseaudio")
+polybar|notice:  Loaded font "ttf-liberation-sans:fixed:pixelsize=13" (name=文泉驿正黑, offset=1, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|notice:  Loaded font "source han sans cn:pixelsize=13:antialias=false" (name=文泉驿正黑, offset=1, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|notice:  Loaded font "Font Awesome 5 Free:style=Solid:pixelsize=13" (name=Font Awesome 5 Free, offset=1, file=/usr/share/fonts/TTF/fa-solid-900.ttf)
+polybar|notice:  Loaded font "Font Awesome 5 Brands:style=Regular:pixelsize=13" (name=Font Awesome 5 Brands, offset=1, file=/usr/share/fonts/TTF/fa-brands-400.ttf)
+polybar|notice:  Loaded font "material icons:pixelsize=16" (name=文泉驿正黑, offset=3, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|warn:  tray-transparent is deprecated, the tray always uses pseudo-transparency. Please remove it.
+polybar|error: Invalid _XEMBED_INFO for window 0x0c00434
+polybar|notice:  Termination signal received, shutting down...
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
+---
+polybar|notice:  Parsing config file: /home/ymxz/.config/polybar/config
+polybar|notice:  Parsing config file: /home/ymxz/.config/polybar/config
+polybar|error: Monitor "eDP1" not found or disconnected
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_03_00.6.analog-stereo
+polybar|notice:  Loaded font "ttf-liberation-sans:fixed:pixelsize=13" (name=文泉驿正黑, offset=1, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|notice:  Loaded font "source han sans cn:pixelsize=13:antialias=false" (name=文泉驿正黑, offset=1, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|notice:  Loaded font "Font Awesome 5 Free:style=Solid:pixelsize=13" (name=Font Awesome 5 Free, offset=1, file=/usr/share/fonts/TTF/fa-solid-900.ttf)
+polybar|notice:  Loaded font "Font Awesome 5 Brands:style=Regular:pixelsize=13" (name=Font Awesome 5 Brands, offset=1, file=/usr/share/fonts/TTF/fa-brands-400.ttf)
+polybar|notice:  Loaded font "material icons:pixelsize=16" (name=文泉驿正黑, offset=3, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|warn:  tray-transparent is deprecated, the tray always uses pseudo-transparency. Please remove it.
+polybar|warn:  Systray selection already managed (window=0x2c00009)
+polybar|error: tray: Failed to put tray above 0x2a00002 in the stack (XCB_MATCH (8))
+polybar|error: Invalid _XEMBED_INFO for window 0x0c0051e
+polybar|notice:  Termination signal received, shutting down...
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
+---
+polybar|notice:  Parsing config file: /home/ymxz/.config/polybar/config
+polybar|notice:  Parsing config file: /home/ymxz/.config/polybar/config
+polybar|error: Monitor "eDP1" not found or disconnected
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_03_00.6.analog-stereo
+polybar|error: module/xbacklight: Could not get data (err: XCB_NAME (15))
+polybar|error: Disabling module "xbacklight" (reason: Not supported for "eDP")
+polybar|notice:  Loaded font "ttf-liberation-sans:fixed:pixelsize=13" (name=文泉驿正黑, offset=1, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|notice:  Loaded font "source han sans cn:pixelsize=13:antialias=false" (name=文泉驿正黑, offset=1, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|notice:  Loaded font "Font Awesome 5 Free:style=Solid:pixelsize=13" (name=Font Awesome 5 Free, offset=1, file=/usr/share/fonts/TTF/fa-solid-900.ttf)
+polybar|notice:  Loaded font "Font Awesome 5 Brands:style=Regular:pixelsize=13" (name=Font Awesome 5 Brands, offset=1, file=/usr/share/fonts/TTF/fa-brands-400.ttf)
+polybar|notice:  Loaded font "material icons:pixelsize=16" (name=文泉驿正黑, offset=3, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|warn:  tray-transparent is deprecated, the tray always uses pseudo-transparency. Please remove it.
+polybar|warn:  Systray selection already managed (window=0x2a00018)
+polybar|error: tray: Failed to put tray above 0x2e00002 in the stack (XCB_MATCH (8))
+polybar|error: Invalid _XEMBED_INFO for window 0x0c0053a
+polybar|notice:  Termination signal received, shutting down...
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
+---
+polybar|notice:  Parsing config file: /home/ymxz/.config/polybar/config
+polybar|notice:  Parsing config file: /home/ymxz/.config/polybar/config
+polybar|error: Monitor "eDP1" not found or disconnected
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_03_00.6.analog-stereo
+polybar|error: Disabling module "backlight-acpi" (reason: The file '/sys/class/backlight/intel_backlight/actual_brightness' does not exist)
+polybar|notice:  Loaded font "ttf-liberation-sans:fixed:pixelsize=13" (name=文泉驿正黑, offset=1, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|notice:  Loaded font "source han sans cn:pixelsize=13:antialias=false" (name=文泉驿正黑, offset=1, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|notice:  Loaded font "Font Awesome 5 Free:style=Solid:pixelsize=13" (name=Font Awesome 5 Free, offset=1, file=/usr/share/fonts/TTF/fa-solid-900.ttf)
+polybar|notice:  Loaded font "Font Awesome 5 Brands:style=Regular:pixelsize=13" (name=Font Awesome 5 Brands, offset=1, file=/usr/share/fonts/TTF/fa-brands-400.ttf)
+polybar|notice:  Loaded font "material icons:pixelsize=16" (name=文泉驿正黑, offset=3, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|warn:  tray-transparent is deprecated, the tray always uses pseudo-transparency. Please remove it.
+polybar|warn:  Systray selection already managed (window=0x2e00018)
+polybar|error: tray: Failed to put tray above 0x2a00002 in the stack (XCB_MATCH (8))
+polybar|error: Invalid _XEMBED_INFO for window 0x0c00586
+polybar|notice:  Termination signal received, shutting down...
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
+---
+polybar|notice:  Parsing config file: /home/ymxz/.config/polybar/config
+polybar|error: Monitor "eDP1" not found or disconnected
+polybar|notice:  Parsing config file: /home/ymxz/.config/polybar/config
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_03_00.6.analog-stereo
+polybar|error: Disabling module "backlight" (reason: No matching output found for "HDMI-1", stopping module...)
+polybar|notice:  Loaded font "ttf-liberation-sans:fixed:pixelsize=13" (name=文泉驿正黑, offset=1, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|notice:  Loaded font "source han sans cn:pixelsize=13:antialias=false" (name=文泉驿正黑, offset=1, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|notice:  Loaded font "Font Awesome 5 Free:style=Solid:pixelsize=13" (name=Font Awesome 5 Free, offset=1, file=/usr/share/fonts/TTF/fa-solid-900.ttf)
+polybar|notice:  Loaded font "Font Awesome 5 Brands:style=Regular:pixelsize=13" (name=Font Awesome 5 Brands, offset=1, file=/usr/share/fonts/TTF/fa-brands-400.ttf)
+polybar|notice:  Loaded font "material icons:pixelsize=16" (name=文泉驿正黑, offset=3, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|warn:  tray-transparent is deprecated, the tray always uses pseudo-transparency. Please remove it.
+polybar|warn:  Systray selection already managed (window=0x2a00018)
+polybar|error: tray: Failed to put tray above 0x2000002 in the stack (XCB_MATCH (8))
+polybar|error: Invalid _XEMBED_INFO for window 0x0c0063c
+polybar|notice:  Termination signal received, shutting down...
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
+---
+polybar|notice:  Parsing config file: /home/ymxz/.config/polybar/config
+polybar|notice:  Parsing config file: /home/ymxz/.config/polybar/config
+polybar|error: Monitor "eDP1" not found or disconnected
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_03_00.6.analog-stereo
+polybar|error: Disabling module "backlight" (reason: No matching output found for "HDMI-1", stopping module...)
+polybar|notice:  Loaded font "ttf-liberation-sans:fixed:pixelsize=13" (name=文泉驿正黑, offset=1, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|notice:  Loaded font "source han sans cn:pixelsize=13:antialias=false" (name=文泉驿正黑, offset=1, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|notice:  Loaded font "Font Awesome 5 Free:style=Solid:pixelsize=13" (name=Font Awesome 5 Free, offset=1, file=/usr/share/fonts/TTF/fa-solid-900.ttf)
+polybar|notice:  Loaded font "Font Awesome 5 Brands:style=Regular:pixelsize=13" (name=Font Awesome 5 Brands, offset=1, file=/usr/share/fonts/TTF/fa-brands-400.ttf)
+polybar|notice:  Loaded font "material icons:pixelsize=16" (name=文泉驿正黑, offset=3, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|warn:  tray-transparent is deprecated, the tray always uses pseudo-transparency. Please remove it.
+polybar|warn:  Systray selection already managed (window=0x2000018)
+polybar|error: tray: Failed to put tray above 0x2a00002 in the stack (XCB_MATCH (8))
+polybar|error: Invalid _XEMBED_INFO for window 0x0c0064e
+polybar|notice:  Termination signal received, shutting down...
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
+---
+polybar|notice:  Parsing config file: /home/ymxz/.config/polybar/config
+polybar|notice:  Parsing config file: /home/ymxz/.config/polybar/config
+polybar|error: Monitor "eDP1" not found or disconnected
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_03_00.6.analog-stereo
+polybar|error: module/backlight: Could not get data (err: XCB_NAME (15))
+polybar|error: Disabling module "backlight" (reason: Not supported for "eDP")
+polybar|notice:  Loaded font "ttf-liberation-sans:fixed:pixelsize=13" (name=文泉驿正黑, offset=1, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|notice:  Loaded font "source han sans cn:pixelsize=13:antialias=false" (name=文泉驿正黑, offset=1, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|notice:  Loaded font "Font Awesome 5 Free:style=Solid:pixelsize=13" (name=Font Awesome 5 Free, offset=1, file=/usr/share/fonts/TTF/fa-solid-900.ttf)
+polybar|notice:  Loaded font "Font Awesome 5 Brands:style=Regular:pixelsize=13" (name=Font Awesome 5 Brands, offset=1, file=/usr/share/fonts/TTF/fa-brands-400.ttf)
+polybar|notice:  Loaded font "material icons:pixelsize=16" (name=文泉驿正黑, offset=3, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|warn:  tray-transparent is deprecated, the tray always uses pseudo-transparency. Please remove it.
+polybar|warn:  Systray selection already managed (window=0x2a00018)
+polybar|error: tray: Failed to put tray above 0x3800002 in the stack (XCB_MATCH (8))
+polybar|error: Invalid _XEMBED_INFO for window 0x0c006b9
+polybar|notice:  Termination signal received, shutting down...
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
+---
+polybar|notice:  Parsing config file: /home/ymxz/.config/polybar/config
+polybar|notice:  Parsing config file: /home/ymxz/.config/polybar/config
+polybar|error: Monitor "eDP1" not found or disconnected
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_03_00.6.analog-stereo
+polybar|error: module/backlight: Could not get data (err: XCB_NAME (15))
+polybar|error: Disabling module "backlight" (reason: Not supported for "eDP")
+polybar|notice:  Loaded font "ttf-liberation-sans:fixed:pixelsize=13" (name=文泉驿正黑, offset=1, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|notice:  Loaded font "source han sans cn:pixelsize=13:antialias=false" (name=文泉驿正黑, offset=1, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|notice:  Loaded font "Font Awesome 5 Free:style=Solid:pixelsize=13" (name=Font Awesome 5 Free, offset=1, file=/usr/share/fonts/TTF/fa-solid-900.ttf)
+polybar|notice:  Loaded font "Font Awesome 5 Brands:style=Regular:pixelsize=13" (name=Font Awesome 5 Brands, offset=1, file=/usr/share/fonts/TTF/fa-brands-400.ttf)
+polybar|notice:  Loaded font "material icons:pixelsize=16" (name=文泉驿正黑, offset=3, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|warn:  tray-transparent is deprecated, the tray always uses pseudo-transparency. Please remove it.
+polybar|warn:  Systray selection already managed (window=0x3800018)
+polybar|error: tray: Failed to put tray above 0x3a00002 in the stack (XCB_MATCH (8))
+polybar|error: Invalid _XEMBED_INFO for window 0x0c006ed
+polybar|notice:  Termination signal received, shutting down...
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
+---
+polybar|notice:  Parsing config file: /home/ymxz/.config/polybar/config
+polybar|notice:  Parsing config file: /home/ymxz/.config/polybar/config
+polybar|error: Monitor "eDP1" not found or disconnected
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_03_00.6.analog-stereo
+polybar|error: module/backlight: Could not get data (err: XCB_NAME (15))
+polybar|error: Disabling module "backlight" (reason: Not supported for "eDP")
+polybar|notice:  Loaded font "ttf-liberation-sans:fixed:pixelsize=13" (name=文泉驿正黑, offset=1, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|notice:  Loaded font "source han sans cn:pixelsize=13:antialias=false" (name=文泉驿正黑, offset=1, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|notice:  Loaded font "Font Awesome 5 Free:style=Solid:pixelsize=13" (name=Font Awesome 5 Free, offset=1, file=/usr/share/fonts/TTF/fa-solid-900.ttf)
+polybar|notice:  Loaded font "Font Awesome 5 Brands:style=Regular:pixelsize=13" (name=Font Awesome 5 Brands, offset=1, file=/usr/share/fonts/TTF/fa-brands-400.ttf)
+polybar|notice:  Loaded font "material icons:pixelsize=16" (name=文泉驿正黑, offset=3, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|warn:  tray-transparent is deprecated, the tray always uses pseudo-transparency. Please remove it.
+polybar|error: tray: Failed to put tray above 0x2a00002 in the stack (XCB_MATCH (8))
+polybar|warn:  Systray selection already managed (window=0x3a00018)
+polybar|error: tray: Failed to put tray above 0x2a00002 in the stack (XCB_MATCH (8))
+polybar|error: Invalid _XEMBED_INFO for window 0x0c00713
+polybar|notice:  Termination signal received, shutting down...
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
+---
+polybar|notice:  Parsing config file: /home/ymxz/.config/polybar/config
+polybar|error: Monitor "eDP1" not found or disconnected
+polybar|notice:  Parsing config file: /home/ymxz/.config/polybar/config
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_03_00.6.analog-stereo
+polybar|error: module/backlight: Could not get data (err: XCB_NAME (15))
+polybar|error: Disabling module "backlight" (reason: Not supported for "eDP")
+polybar|notice:  Loaded font "ttf-liberation-sans:fixed:pixelsize=13" (name=文泉驿正黑, offset=1, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|notice:  Loaded font "source han sans cn:pixelsize=13:antialias=false" (name=文泉驿正黑, offset=1, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|notice:  Loaded font "Font Awesome 5 Free:style=Solid:pixelsize=13" (name=Font Awesome 5 Free, offset=1, file=/usr/share/fonts/TTF/fa-solid-900.ttf)
+polybar|notice:  Loaded font "Font Awesome 5 Brands:style=Regular:pixelsize=13" (name=Font Awesome 5 Brands, offset=1, file=/usr/share/fonts/TTF/fa-brands-400.ttf)
+polybar|notice:  Loaded font "material icons:pixelsize=16" (name=文泉驿正黑, offset=3, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|warn:  tray-transparent is deprecated, the tray always uses pseudo-transparency. Please remove it.
+polybar|warn:  Systray selection already managed (window=0x2a00018)
+polybar|error: tray: Failed to put tray above 0x1e00002 in the stack (XCB_MATCH (8))
+polybar|error: Invalid _XEMBED_INFO for window 0x0c00725
+polybar|notice:  Termination signal received, shutting down...
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
+---
+polybar|notice:  Parsing config file: /home/ymxz/.config/polybar/config
+polybar|notice:  Parsing config file: /home/ymxz/.config/polybar/config
+polybar|error: Monitor "eDP1" not found or disconnected
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_03_00.6.analog-stereo
+polybar|error: module/backlight: Could not get data (err: XCB_NAME (15))
+polybar|error: Disabling module "backlight" (reason: Not supported for "eDP")
+polybar|notice:  Loaded font "ttf-liberation-sans:fixed:pixelsize=13" (name=文泉驿正黑, offset=1, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|notice:  Loaded font "source han sans cn:pixelsize=13:antialias=false" (name=文泉驿正黑, offset=1, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|notice:  Loaded font "Font Awesome 5 Free:style=Solid:pixelsize=13" (name=Font Awesome 5 Free, offset=1, file=/usr/share/fonts/TTF/fa-solid-900.ttf)
+polybar|notice:  Loaded font "Font Awesome 5 Brands:style=Regular:pixelsize=13" (name=Font Awesome 5 Brands, offset=1, file=/usr/share/fonts/TTF/fa-brands-400.ttf)
+polybar|notice:  Loaded font "material icons:pixelsize=16" (name=文泉驿正黑, offset=3, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|warn:  tray-transparent is deprecated, the tray always uses pseudo-transparency. Please remove it.
+polybar|warn:  Systray selection already managed (window=0x1e00018)
+polybar|error: tray: Failed to put tray above 0x2a00002 in the stack (XCB_MATCH (8))
+polybar|error: Invalid _XEMBED_INFO for window 0x0c00743
+polybar|notice:  Termination signal received, shutting down...
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
+---
+polybar|notice:  Parsing config file: /home/ymxz/.config/polybar/config
+polybar|notice:  Parsing config file: /home/ymxz/.config/polybar/config
+polybar|error: Monitor "eDP1" not found or disconnected
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_03_00.6.analog-stereo
+polybar|error: module/backlight: Could not get data (err: XCB_NAME (15))
+polybar|error: Disabling module "backlight" (reason: Not supported for "eDP")
+polybar|notice:  Loaded font "ttf-liberation-sans:fixed:pixelsize=13" (name=文泉驿正黑, offset=1, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|notice:  Loaded font "source han sans cn:pixelsize=13:antialias=false" (name=文泉驿正黑, offset=1, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|notice:  Loaded font "Font Awesome 5 Free:style=Solid:pixelsize=13" (name=Font Awesome 5 Free, offset=1, file=/usr/share/fonts/TTF/fa-solid-900.ttf)
+polybar|notice:  Loaded font "Font Awesome 5 Brands:style=Regular:pixelsize=13" (name=Font Awesome 5 Brands, offset=1, file=/usr/share/fonts/TTF/fa-brands-400.ttf)
+polybar|notice:  Loaded font "material icons:pixelsize=16" (name=文泉驿正黑, offset=3, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|warn:  tray-transparent is deprecated, the tray always uses pseudo-transparency. Please remove it.
+polybar|error: tray: Failed to put tray above 0x3800002 in the stack (XCB_MATCH (8))
+polybar|warn:  Systray selection already managed (window=0x2a00018)
+polybar|error: tray: Failed to put tray above 0x3800002 in the stack (XCB_MATCH (8))
+polybar|error: Invalid _XEMBED_INFO for window 0x0c00761
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
+polybar|error: module/i3: Failed to reconnect socket (reason: Failed to connect to i3: errno 2 (No such file or directory))
+---
+polybar|notice:  Parsing config file: /home/ymxz/.config/polybar/config
+polybar|notice:  Parsing config file: /home/ymxz/.config/polybar/config
+polybar|error: Monitor "eDP1" not found or disconnected
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_03_00.6.analog-stereo
+polybar|error: module/backlight: Could not get data (err: XCB_NAME (15))
+polybar|error: Disabling module "backlight" (reason: Not supported for "eDP")
+polybar|notice:  Loaded font "ttf-liberation-sans:fixed:pixelsize=13" (name=文泉驿正黑, offset=1, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|notice:  Loaded font "source han sans cn:pixelsize=13:antialias=false" (name=文泉驿正黑, offset=1, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|notice:  Loaded font "Font Awesome 5 Free:style=Solid:pixelsize=13" (name=Font Awesome 5 Free, offset=1, file=/usr/share/fonts/TTF/fa-solid-900.ttf)
+polybar|notice:  Loaded font "Font Awesome 5 Brands:style=Regular:pixelsize=13" (name=Font Awesome 5 Brands, offset=1, file=/usr/share/fonts/TTF/fa-brands-400.ttf)
+polybar|notice:  Loaded font "material icons:pixelsize=16" (name=文泉驿正黑, offset=3, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|warn:  tray-transparent is deprecated, the tray always uses pseudo-transparency. Please remove it.
+polybar|error: Invalid _XEMBED_INFO for window 0x0c00016
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
+polybar|error: module/i3: Failed to reconnect socket (reason: Failed to connect to i3: errno 2 (No such file or directory))
+polybar|notice:  Termination signal received, shutting down...
+---
+polybar|notice:  Parsing config file: /home/ymxz/.config/polybar/config
+polybar|notice:  Parsing config file: /home/ymxz/.config/polybar/config
+polybar|error: Monitor "eDP1" not found or disconnected
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_03_00.6.analog-stereo
+polybar|error: module/backlight: Could not get data (err: XCB_NAME (15))
+polybar|error: Disabling module "backlight" (reason: Not supported for "eDP")
+polybar|notice:  Loaded font "ttf-liberation-sans:fixed:pixelsize=13" (name=文泉驿正黑, offset=1, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|notice:  Loaded font "source han sans cn:pixelsize=13:antialias=false" (name=文泉驿正黑, offset=1, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|notice:  Loaded font "Font Awesome 5 Free:style=Solid:pixelsize=13" (name=Font Awesome 5 Free, offset=1, file=/usr/share/fonts/TTF/fa-solid-900.ttf)
+polybar|notice:  Loaded font "Font Awesome 5 Brands:style=Regular:pixelsize=13" (name=Font Awesome 5 Brands, offset=1, file=/usr/share/fonts/TTF/fa-brands-400.ttf)
+polybar|notice:  Loaded font "material icons:pixelsize=16" (name=文泉驿正黑, offset=3, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|warn:  tray-transparent is deprecated, the tray always uses pseudo-transparency. Please remove it.
+polybar|error: Invalid _XEMBED_INFO for window 0x1200016
+polybar|notice:  Termination signal received, shutting down...
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
+---
+polybar|notice:  Parsing config file: /home/ymxz/.config/polybar/config
+polybar|notice:  Parsing config file: /home/ymxz/.config/polybar/config
+polybar|error: Monitor "eDP1" not found or disconnected
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_03_00.6.analog-stereo
+polybar|error: module/backlight: Could not get data (err: XCB_NAME (15))
+polybar|error: Disabling module "backlight" (reason: Not supported for "eDP")
+polybar|notice:  Loaded font "ttf-liberation-sans:fixed:pixelsize=13" (name=文泉驿正黑, offset=1, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|notice:  Loaded font "source han sans cn:pixelsize=13:antialias=false" (name=文泉驿正黑, offset=1, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|notice:  Loaded font "Font Awesome 5 Free:style=Solid:pixelsize=13" (name=Font Awesome 5 Free, offset=1, file=/usr/share/fonts/TTF/fa-solid-900.ttf)
+polybar|notice:  Loaded font "Font Awesome 5 Brands:style=Regular:pixelsize=13" (name=Font Awesome 5 Brands, offset=1, file=/usr/share/fonts/TTF/fa-brands-400.ttf)
+polybar|notice:  Loaded font "material icons:pixelsize=16" (name=文泉驿正黑, offset=3, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|warn:  tray-transparent is deprecated, the tray always uses pseudo-transparency. Please remove it.
+polybar|error: tray: Failed to put tray above 0x2e00002 in the stack (XCB_MATCH (8))
+polybar|warn:  Systray selection already managed (window=0x1000009)
+polybar|error: tray: Failed to put tray above 0x2e00002 in the stack (XCB_MATCH (8))
+polybar|error: Invalid _XEMBED_INFO for window 0x12000d1
+---
+polybar|notice:  Parsing config file: /home/ymxz/.config/polybar/config
+polybar|notice:  Parsing config file: /home/ymxz/.config/polybar/config
+polybar|error: Monitor "eDP1" not found or disconnected
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_03_00.6.analog-stereo
+polybar|error: module/backlight: Could not get data (err: XCB_NAME (15))
+polybar|error: Disabling module "backlight" (reason: Not supported for "eDP")
+polybar|notice:  Loaded font "ttf-liberation-sans:fixed:pixelsize=13" (name=文泉驿正黑, offset=1, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|notice:  Loaded font "source han sans cn:pixelsize=13:antialias=false" (name=文泉驿正黑, offset=1, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|notice:  Loaded font "Font Awesome 5 Free:style=Solid:pixelsize=13" (name=Font Awesome 5 Free, offset=1, file=/usr/share/fonts/TTF/fa-solid-900.ttf)
+polybar|notice:  Loaded font "Font Awesome 5 Brands:style=Regular:pixelsize=13" (name=Font Awesome 5 Brands, offset=1, file=/usr/share/fonts/TTF/fa-brands-400.ttf)
+polybar|notice:  Loaded font "material icons:pixelsize=16" (name=文泉驿正黑, offset=3, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|warn:  tray-transparent is deprecated, the tray always uses pseudo-transparency. Please remove it.
+polybar|error: Invalid _XEMBED_INFO for window 0x0e00016
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
+polybar|error: module/i3: Failed to reconnect socket (reason: Failed to connect to i3: errno 2 (No such file or directory))
+---
+polybar|notice:  Parsing config file: /home/ymxz/.config/polybar/config
+polybar|notice:  Parsing config file: /home/ymxz/.config/polybar/config
+polybar|error: Monitor "eDP1" not found or disconnected
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_03_00.6.analog-stereo
+polybar|error: module/backlight: Could not get data (err: XCB_NAME (15))
+polybar|error: Disabling module "backlight" (reason: Not supported for "eDP")
+polybar|notice:  Loaded font "ttf-liberation-sans:fixed:pixelsize=13" (name=文泉驿正黑, offset=1, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|notice:  Loaded font "source han sans cn:pixelsize=13:antialias=false" (name=文泉驿正黑, offset=1, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|notice:  Loaded font "Font Awesome 5 Free:style=Solid:pixelsize=13" (name=Font Awesome 5 Free, offset=1, file=/usr/share/fonts/TTF/fa-solid-900.ttf)
+polybar|notice:  Loaded font "Font Awesome 5 Brands:style=Regular:pixelsize=13" (name=Font Awesome 5 Brands, offset=1, file=/usr/share/fonts/TTF/fa-brands-400.ttf)
+polybar|notice:  Loaded font "material icons:pixelsize=16" (name=文泉驿正黑, offset=3, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|warn:  tray-transparent is deprecated, the tray always uses pseudo-transparency. Please remove it.
+polybar|error: Invalid _XEMBED_INFO for window 0x0c00016
+polybar|warn:  Dropping unmatched character • (U+2022) in '   ● import socket • Untitled-1 - talk - Visual Studio Code'
+polybar|warn:  Dropping unmatched character • (U+2022) in '   ● import socket • Untitled-1 - talk - Visual Studio Code'
+polybar|warn:  Dropping unmatched character • (U+2022) in '   ● import socket • Untitled-1 - talk - Visual Studio Code'
+polybar|warn:  Dropping unmatched character • (U+2022) in '   ● import socket • Untitled-1 - talk - Visual Studio Code'
+polybar|warn:  Dropping unmatched character • (U+2022) in '   ● import socket • Untitled-1 - talk - Visual Studio Code'
+polybar|warn:  Dropping unmatched character • (U+2022) in '   ● import socket • Untitled-1 - talk - Visual Studio Code'
+polybar|warn:  Dropping unmatched character • (U+2022) in '   ● import socket • Untitled-1 - talk - Visual Studio Code'
+polybar|warn:  Dropping unmatched character • (U+2022) in '   ● import socket • Untitled-1 - talk - Visual Studio Code'
+polybar|warn:  Dropping unmatched character • (U+2022) in '   ● import socket • Untitled-1 - talk - Visual Studio Code'
+polybar|warn:  Dropping unmatched character • (U+2022) in '   ● import socket • Untitled-1 - talk - Visual Studio Code'
+polybar|warn:  Dropping unmatched character • (U+2022) in '   ● import socket • Untitled-1 - talk - Visual Studio Code'
+polybar|warn:  Dropping unmatched character • (U+2022) in '   ● import socket • Untitled-1 - talk - Visual Studio Code'
+polybar|warn:  Dropping unmatched character • (U+2022) in '   ● import socket • Untitled-1 - talk - Visual Studio Code'
+polybar|warn:  Dropping unmatched character • (U+2022) in '   ● import socket • Untitled-1 - talk - Visual Studio Code'
+polybar|warn:  Dropping unmatched character • (U+2022) in '   ● import socket • Untitled-1 - talk - Visual Studio Code'
+polybar|warn:  Dropping unmatched character • (U+2022) in '   ● import socket • Untitled-1 - talk - Visual Studio Code'
+polybar|warn:  Dropping unmatched character • (U+2022) in '   ● import socket • Untitled-1 - talk - Visual Studio Code'
+polybar|warn:  Dropping unmatched character • (U+2022) in '   ● from arepl_dump import dump • Untitled-1 - talk - Visual Studio Code'
+polybar|warn:  Dropping unmatched character • (U+2022) in '   ● from arepl_dump import dump • Untitled-1 - talk - Visual Studio Code'
+polybar|warn:  Dropping unmatched character • (U+2022) in '   ● from arepl_dump import dump • Untitled-1 - talk - Visual Studio Code'
+polybar|warn:  Dropping unmatched character • (U+2022) in '   ● from arepl_dump import dump • Untitled-1 - talk - Visual Studio Code'
+polybar|warn:  Dropping unmatched character • (U+2022) in '   ● from arepl_dump import dump • Untitled-1 - talk - Visual Studio Code'
+polybar|warn:  Dropping unmatched character • (U+2022) in '   ● from arepl_dump import dump • Untitled-1 - talk - Visual Studio Code'
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
+polybar|error: module/i3: Failed to reconnect socket (reason: Failed to connect to i3: errno 2 (No such file or directory))
+polybar|notice:  Termination signal received, shutting down...
+---
+polybar|notice:  Parsing config file: /home/ymxz/.config/polybar/config
+polybar|notice:  Parsing config file: /home/ymxz/.config/polybar/config
+polybar|error: Monitor "eDP1" not found or disconnected
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_03_00.6.analog-stereo
+polybar|error: module/backlight: Could not get data (err: XCB_NAME (15))
+polybar|error: Disabling module "backlight" (reason: Not supported for "eDP")
+polybar|notice:  Loaded font "ttf-liberation-sans:fixed:pixelsize=13" (name=文泉驿正黑, offset=1, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|notice:  Loaded font "source han sans cn:pixelsize=13:antialias=false" (name=文泉驿正黑, offset=1, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|notice:  Loaded font "Font Awesome 5 Free:style=Solid:pixelsize=13" (name=Font Awesome 5 Free, offset=1, file=/usr/share/fonts/TTF/fa-solid-900.ttf)
+polybar|notice:  Loaded font "Font Awesome 5 Brands:style=Regular:pixelsize=13" (name=Font Awesome 5 Brands, offset=1, file=/usr/share/fonts/TTF/fa-brands-400.ttf)
+polybar|notice:  Loaded font "material icons:pixelsize=16" (name=文泉驿正黑, offset=3, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|warn:  tray-transparent is deprecated, the tray always uses pseudo-transparency. Please remove it.
+polybar|error: Invalid _XEMBED_INFO for window 0x1000016
+polybar|error: Failed to reconfigure tray client, removing... (XCB_WINDOW (3))
+polybar|warn:  Dropping unmatched character ∙ (U+2219) in '   C++╗∙┤í╚δ├┼╜▓╥σ'
+polybar|warn:  Dropping unmatched character ∙ (U+2219) in '   C++╗∙┤í╚δ├┼╜▓╥σ'
+polybar|warn:  Dropping unmatched character ∙ (U+2219) in '   C++╗∙┤í╚δ├┼╜▓╥σ'
+polybar|warn:  Dropping unmatched character ∙ (U+2219) in '   C++╗∙┤í╚δ├┼╜▓╥σ'
+polybar|warn:  Dropping unmatched character ∙ (U+2219) in '   C++╗∙┤í╚δ├┼╜▓╥σ'
+polybar|warn:  Dropping unmatched character ∙ (U+2219) in '   C++╗∙┤í╚δ├┼.md - Typora'
+polybar|warn:  Dropping unmatched character ∙ (U+2219) in '   C++╗∙┤í╚δ├┼.md - Typora'
+polybar|warn:  Dropping unmatched character ∙ (U+2219) in '   C++╗∙┤í╚δ├┼.md - Typora'
+polybar|warn:  Dropping unmatched character ∙ (U+2219) in '   C++╗∙┤í╚δ├┼.md - Typora'
+polybar|warn:  Dropping unmatched character ∙ (U+2219) in '   C++╗∙┤í╚δ├┼.md - Typora'
+polybar|warn:  Dropping unmatched character ∙ (U+2219) in '   C++╗∙┤í╚δ├┼.md - Typora'
+polybar|warn:  Dropping unmatched character ∙ (U+2219) in '   C++╗∙┤í╚δ├┼.md - Typora'
+polybar|warn:  Dropping unmatched character ∙ (U+2219) in '   C++╗∙┤í╚δ├┼.md - Typora'
+polybar|warn:  Dropping unmatched character ∙ (U+2219) in '   C++╗∙┤í╚δ├┼╜▓╥σ'
+polybar|warn:  Dropping unmatched character ∙ (U+2219) in '   C++╗∙┤í╚δ├┼╜▓╥σ'
+polybar|warn:  Dropping unmatched character ∙ (U+2219) in '   C++╗∙┤í╚δ├┼╜▓╥σ'
+polybar|warn:  Dropping unmatched character ∙ (U+2219) in '   C++╗∙┤í╚δ├┼╜▓╥σ'
+polybar|warn:  Dropping unmatched character ∙ (U+2219) in '   C++╗∙┤í╚δ├┼╜▓╥σ'
+polybar|warn:  Dropping unmatched character ͼ (U+037c) in '   ͼƬ'
+polybar|warn:  Dropping unmatched character Ƭ (U+01ac) in '   ͼƬ'
+polybar|warn:  Dropping unmatched character ͼ (U+037c) in '   ͼƬ'
+polybar|warn:  Dropping unmatched character Ƭ (U+01ac) in '   ͼƬ'
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
+polybar|error: module/i3: Failed to reconnect socket (reason: Failed to connect to i3: errno 2 (No such file or directory))
+---
+polybar|notice:  Parsing config file: /home/ymxz/.config/polybar/config
+polybar|notice:  Parsing config file: /home/ymxz/.config/polybar/config
+polybar|error: Monitor "eDP1" not found or disconnected
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_03_00.6.analog-stereo
+polybar|error: module/backlight: Could not get data (err: XCB_NAME (15))
+polybar|error: Disabling module "backlight" (reason: Not supported for "eDP")
+polybar|notice:  Loaded font "ttf-liberation-sans:fixed:pixelsize=13" (name=文泉驿正黑, offset=1, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|notice:  Loaded font "source han sans cn:pixelsize=13:antialias=false" (name=文泉驿正黑, offset=1, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|notice:  Loaded font "Font Awesome 5 Free:style=Solid:pixelsize=13" (name=Font Awesome 5 Free, offset=1, file=/usr/share/fonts/TTF/fa-solid-900.ttf)
+polybar|notice:  Loaded font "Font Awesome 5 Brands:style=Regular:pixelsize=13" (name=Font Awesome 5 Brands, offset=1, file=/usr/share/fonts/TTF/fa-brands-400.ttf)
+polybar|notice:  Loaded font "material icons:pixelsize=16" (name=文泉驿正黑, offset=3, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|warn:  tray-transparent is deprecated, the tray always uses pseudo-transparency. Please remove it.
+polybar|error: Invalid _XEMBED_INFO for window 0x1000016
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
+polybar|error: module/i3: Failed to reconnect socket (reason: Failed to connect to i3: errno 2 (No such file or directory))
+---
+polybar|notice:  Parsing config file: /home/ymxz/.config/polybar/config
+polybar|notice:  Parsing config file: /home/ymxz/.config/polybar/config
+polybar|error: Monitor "eDP1" not found or disconnected
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_03_00.6.analog-stereo
+polybar|error: module/backlight: Could not get data (err: XCB_NAME (15))
+polybar|error: Disabling module "backlight" (reason: Not supported for "eDP")
+polybar|notice:  Loaded font "ttf-liberation-sans:fixed:pixelsize=13" (name=文泉驿正黑, offset=1, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|notice:  Loaded font "source han sans cn:pixelsize=13:antialias=false" (name=文泉驿正黑, offset=1, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|notice:  Loaded font "Font Awesome 5 Free:style=Solid:pixelsize=13" (name=Font Awesome 5 Free, offset=1, file=/usr/share/fonts/TTF/fa-solid-900.ttf)
+polybar|notice:  Loaded font "Font Awesome 5 Brands:style=Regular:pixelsize=13" (name=Font Awesome 5 Brands, offset=1, file=/usr/share/fonts/TTF/fa-brands-400.ttf)
+polybar|notice:  Loaded font "material icons:pixelsize=16" (name=文泉驿正黑, offset=3, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|warn:  tray-transparent is deprecated, the tray always uses pseudo-transparency. Please remove it.
+polybar|error: Invalid _XEMBED_INFO for window 0x0e00016
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
+polybar|error: module/i3: Failed to reconnect socket (reason: Failed to connect to i3: errno 2 (No such file or directory))
+---
+polybar|notice:  Parsing config file: /home/ymxz/.config/polybar/config
+polybar|notice:  Parsing config file: /home/ymxz/.config/polybar/config
+polybar|error: Monitor "eDP1" not found or disconnected
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_03_00.6.analog-stereo
+polybar|error: module/backlight: Could not get data (err: XCB_NAME (15))
+polybar|error: Disabling module "backlight" (reason: Not supported for "eDP")
+polybar|notice:  Loaded font "ttf-liberation-sans:fixed:pixelsize=13" (name=文泉驿正黑, offset=1, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|notice:  Loaded font "source han sans cn:pixelsize=13:antialias=false" (name=文泉驿正黑, offset=1, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|notice:  Loaded font "Font Awesome 5 Free:style=Solid:pixelsize=13" (name=Font Awesome 5 Free, offset=1, file=/usr/share/fonts/TTF/fa-solid-900.ttf)
+polybar|notice:  Loaded font "Font Awesome 5 Brands:style=Regular:pixelsize=13" (name=Font Awesome 5 Brands, offset=1, file=/usr/share/fonts/TTF/fa-brands-400.ttf)
+polybar|notice:  Loaded font "material icons:pixelsize=16" (name=文泉驿正黑, offset=3, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|warn:  tray-transparent is deprecated, the tray always uses pseudo-transparency. Please remove it.
+polybar|error: Invalid _XEMBED_INFO for window 0x1200016
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
+polybar|error: module/i3: Failed to reconnect socket (reason: Failed to connect to i3: errno 2 (No such file or directory))
+---
+polybar|notice:  Parsing config file: /home/ymxz/.config/polybar/config
+polybar|notice:  Parsing config file: /home/ymxz/.config/polybar/config
+polybar|error: Monitor "eDP1" not found or disconnected
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_03_00.6.analog-stereo
+polybar|error: module/backlight: Could not get data (err: XCB_NAME (15))
+polybar|error: Disabling module "backlight" (reason: Not supported for "eDP")
+polybar|notice:  Loaded font "ttf-liberation-sans:fixed:pixelsize=13" (name=文泉驿正黑, offset=1, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|notice:  Loaded font "source han sans cn:pixelsize=13:antialias=false" (name=文泉驿正黑, offset=1, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|notice:  Loaded font "Font Awesome 5 Free:style=Solid:pixelsize=13" (name=Font Awesome 5 Free, offset=1, file=/usr/share/fonts/TTF/fa-solid-900.ttf)
+polybar|notice:  Loaded font "Font Awesome 5 Brands:style=Regular:pixelsize=13" (name=Font Awesome 5 Brands, offset=1, file=/usr/share/fonts/TTF/fa-brands-400.ttf)
+polybar|notice:  Loaded font "material icons:pixelsize=16" (name=文泉驿正黑, offset=3, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|warn:  tray-transparent is deprecated, the tray always uses pseudo-transparency. Please remove it.
+polybar|error: Invalid _XEMBED_INFO for window 0x0e00016
+polybar|error: Invalid _XEMBED_INFO for window 0x0e00018
+polybar|error: Invalid _XEMBED_INFO for window 0x0e00018
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
+polybar|error: module/i3: Failed to reconnect socket (reason: Failed to connect to i3: errno 2 (No such file or directory))
+---
+polybar|notice:  Parsing config file: /home/ymxz/.config/polybar/config
+polybar|error: Monitor "eDP1" not found or disconnected
+polybar|notice:  Parsing config file: /home/ymxz/.config/polybar/config
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_03_00.6.analog-stereo
+polybar|error: module/backlight: Could not get data (err: XCB_NAME (15))
+polybar|error: Disabling module "backlight" (reason: Not supported for "eDP")
+polybar|notice:  Loaded font "ttf-liberation-sans:fixed:pixelsize=13" (name=文泉驿正黑, offset=1, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|notice:  Loaded font "source han sans cn:pixelsize=13:antialias=false" (name=文泉驿正黑, offset=1, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|notice:  Loaded font "Font Awesome 5 Free:style=Solid:pixelsize=13" (name=Font Awesome 5 Free, offset=1, file=/usr/share/fonts/TTF/fa-solid-900.ttf)
+polybar|notice:  Loaded font "Font Awesome 5 Brands:style=Regular:pixelsize=13" (name=Font Awesome 5 Brands, offset=1, file=/usr/share/fonts/TTF/fa-brands-400.ttf)
+polybar|notice:  Loaded font "material icons:pixelsize=16" (name=文泉驿正黑, offset=3, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|warn:  tray-transparent is deprecated, the tray always uses pseudo-transparency. Please remove it.
+polybar|error: Invalid _XEMBED_INFO for window 0x0c00016
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
+polybar|error: module/i3: Failed to reconnect socket (reason: Failed to connect to i3: errno 2 (No such file or directory))
+polybar|notice:  Termination signal received, shutting down...
+---
+polybar|notice:  Parsing config file: /home/ymxz/.config/polybar/config
+polybar|notice:  Parsing config file: /home/ymxz/.config/polybar/config
+polybar|error: Monitor "eDP1" not found or disconnected
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_03_00.6.analog-stereo
+polybar|error: module/backlight: Could not get data (err: XCB_NAME (15))
+polybar|error: Disabling module "backlight" (reason: Not supported for "eDP")
+polybar|notice:  Loaded font "ttf-liberation-sans:fixed:pixelsize=13" (name=文泉驿正黑, offset=1, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|notice:  Loaded font "source han sans cn:pixelsize=13:antialias=false" (name=文泉驿正黑, offset=1, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|notice:  Loaded font "Font Awesome 5 Free:style=Solid:pixelsize=13" (name=Font Awesome 5 Free, offset=1, file=/usr/share/fonts/TTF/fa-solid-900.ttf)
+polybar|notice:  Loaded font "Font Awesome 5 Brands:style=Regular:pixelsize=13" (name=Font Awesome 5 Brands, offset=1, file=/usr/share/fonts/TTF/fa-brands-400.ttf)
+polybar|notice:  Loaded font "material icons:pixelsize=16" (name=文泉驿正黑, offset=3, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|warn:  tray-transparent is deprecated, the tray always uses pseudo-transparency. Please remove it.
+polybar|error: Invalid _XEMBED_INFO for window 0x0e00016
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
+polybar|error: module/i3: Failed to reconnect socket (reason: Failed to connect to i3: errno 2 (No such file or directory))
+---
+polybar|notice:  Parsing config file: /home/ymxz/.config/polybar/config
+polybar|notice:  Parsing config file: /home/ymxz/.config/polybar/config
+polybar|error: Monitor "eDP1" not found or disconnected
+polybar|notice:  pulseaudio: using default sink alsa_output.pci-0000_03_00.6.analog-stereo
+polybar|error: module/backlight: Could not get data (err: XCB_NAME (15))
+polybar|error: Disabling module "backlight" (reason: Not supported for "eDP")
+polybar|notice:  Loaded font "ttf-liberation-sans:fixed:pixelsize=13" (name=文泉驿正黑, offset=1, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|notice:  Loaded font "source han sans cn:pixelsize=13:antialias=false" (name=文泉驿正黑, offset=1, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|notice:  Loaded font "Font Awesome 5 Free:style=Solid:pixelsize=13" (name=Font Awesome 5 Free, offset=1, file=/usr/share/fonts/TTF/fa-solid-900.ttf)
+polybar|notice:  Loaded font "Font Awesome 5 Brands:style=Regular:pixelsize=13" (name=Font Awesome 5 Brands, offset=1, file=/usr/share/fonts/TTF/fa-brands-400.ttf)
+polybar|notice:  Loaded font "material icons:pixelsize=16" (name=文泉驿正黑, offset=3, file=/usr/share/fonts/wenquanyi/wqy-zenhei/wqy-zenhei.ttc)
+polybar|warn:  tray-transparent is deprecated, the tray always uses pseudo-transparency. Please remove it.
+polybar|error: Invalid _XEMBED_INFO for window 0x0c00016
+polybar|error: Invalid _XEMBED_INFO for window 0x2e00018
